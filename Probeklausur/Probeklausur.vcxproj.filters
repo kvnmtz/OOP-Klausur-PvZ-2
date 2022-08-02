@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="zombie.cpp" />
+    <ClCompile Include="engineerzombie.cpp" />
+    <ClCompile Include="position.cpp" />
+    <ClCompile Include="toolfacet.cpp" />
+    <ClCompile Include="veganfacet.cpp" />
+    <ClCompile Include="garden.cpp" />
+    <ClCompile Include="entity.cpp" />
+    <ClCompile Include="plant.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="zombie.h" />
+    <ClInclude Include="position.h" />
+    <ClInclude Include="engineerzombie.h" />
+    <ClInclude Include="random.hpp" />
+    <ClInclude Include="toolfacet.h" />
+    <ClInclude Include="veganfacet.h" />
+    <ClInclude Include="garden.h" />
+    <ClInclude Include="entity.h" />
+    <ClInclude Include="plant.h" />
+  </ItemGroup>
+</Project>
